@@ -1,8 +1,8 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "repository": "yunfan668/wjm",
-  "path": "reports/ai-daily/2026-11-03.md",
-  "url": "https://github.com/yunfan668/wjm/blob/649582f500d1c77575f58dba9c34d2c77cd59676/reports/ai-daily/2026-11-03.md",
-  "commit": "649582f500d1c77575f58dba9c34d2c77cd59676",
-  "coverage_note": "首期扩展覆盖近期多家 AI 官方动态及 OpenAI、Tibo 的 X 帖子；具体覆盖与核验限制见报告。"
+  "path": "reports/ai-daily/2026-11-04.md",
+  "url": "https://github.com/yunfan668/wjm/blob/3268788635a4ee481f8c3efbc9b5941816f88561/reports/ai-daily/2026-11-04.md",
+  "commit": "3268788635a4ee481f8c3efbc9b5941816f88561",
+  "coverage_note": "过去24小时 OpenAI、Tibo 和部分其他官方 AI 动态；日期无时分的消息单独标注。"
 }
