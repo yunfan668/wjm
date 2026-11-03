@@ -1,0 +1,16 @@
+{
+  "schema": "tianyi-handoff.probe.v1",
+  "title": "手机读取 GitHub 公开文件验证",
+  "test_code": "TYGH-256D7FDD",
+  "items": [
+    {
+      "name": "青竹笔记本",
+      "price_yuan": 17.35
+    },
+    {
+      "name": "薄荷蓝书签",
+      "price_yuan": 9.28
+    }
+  ],
+  "note": "这些是合成测试数据，不代表真实商品，也不包含用户私人信息。请读出校验码、两项名称，并计算价格合计。"
+}
