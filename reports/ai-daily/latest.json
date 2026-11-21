@@ -1,8 +1,8 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "repository": "yunfan668/wjm",
-  "path": "reports/ai-daily/2026-11-21.md",
-  "url": "https://github.com/yunfan668/wjm/blob/35f8853cef6f327fbc03da565a166399bdf110ae/reports/ai-daily/2026-11-21.md",
-  "commit": "35f8853cef6f327fbc03da565a166399bdf110ae",
-  "coverage_note": "补刊：汇总 11 月 10 日 06:02 新加坡时间至 11 月 21 日的重点动态。"
+  "path": "reports/ai-daily/2026-11-22.md",
+  "url": "https://github.com/yunfan668/wjm/blob/3815a2ad5fa402dc53f30545091c9e109db6402d/reports/ai-daily/2026-11-22.md",
+  "commit": "3815a2ad5fa402dc53f30545091c9e109db6402d",
+  "coverage_note": "检索 11 月 21 日 06:00 至 11 月 22 日 06:00（新加坡时间），与上一期补刊重叠部分去重。"
 }
